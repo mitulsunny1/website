@@ -59,6 +59,21 @@
   .menu a.isActive{
     background-color: #f21a94;
   }
+
+  #form-tag{
+    border: 2px solid black;
+    padding: 20px;
+    max-width:780px;
+    margin:0 auto;
+    font-size: 20px;
+  }
+  .regis{
+    width: 200px;
+    font-size: 20px;
+  }
+ .biograph{
+  border: 2px dashed gray;
+ }
   @media only screen and (max-width: 620px) {
     /* For mobile phones: */
     .menu, .main, .right {
